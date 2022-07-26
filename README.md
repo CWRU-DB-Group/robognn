@@ -3,3 +3,6 @@ This is the repository for "RoboGNN: Robustifying Node Classification under Link
 
 ## RoboGNN Framework
 ![RoboGNN_pre](https://user-images.githubusercontent.com/31790188/181011592-01137f9f-d1e5-47fb-b2e4-5bdbffbd7f74.svg)
+
+## RoboGNN Video Resource
+[Youtube] https://www.youtube.com/watch?v=uS3O-0QOaZE&t=25s
