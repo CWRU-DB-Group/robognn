@@ -6,4 +6,5 @@ This is the repository for "RoboGNN: Robustifying Node Classification under Link
 
 ## RoboGNN Video Resource
 [Youtube] https://www.youtube.com/watch?v=uS3O-0QOaZE&t=25s
+
 [Bilibili] https://www.bilibili.com/video/BV1WN4y1777V/
